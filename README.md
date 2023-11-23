@@ -1,4 +1,4 @@
 # Demo
 This is my first repository on GitHub.
 <br>
-Author- Jinpragya Jain
+Author- Jinpragya (Poornima College of Engineering)
